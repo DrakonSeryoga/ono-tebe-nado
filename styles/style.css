@@ -18,7 +18,7 @@ header {
   gap: 31px;
   list-style: circle;
   text-underline-offset: 4px;
-  letter-spacing: 0.01em; 
+  letter-spacing: 0.01em;
 }
 
 .header__links-list-item-no-bullet {
@@ -52,5 +52,5 @@ header {
   list-style: none;
   width: 210px;
   line-height: 24px;
-  text-underline-offset: 4px; 
+  text-underline-offset: 4px;
 }
